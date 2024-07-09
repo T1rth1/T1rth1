@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer | Building Tomorrow's Solutions Today</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=t1rth" alt="t1rth" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=T1rth1&label=Profile%20views&color=0e75b6&style=flat" alt="T1rth1" /> </p>
 
 - 🌱 I’m currently learning **NextJS**
 
